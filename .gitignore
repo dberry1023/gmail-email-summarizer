@@ -1,0 +1,25 @@
+﻿# Sensitive files - DO NOT COMMIT
+credentials.json
+token.json
+.env
+email_report_*.txt
+client_secret*.json
+*apps.googleusercontent.com.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal documents
+*.pdf
+*.docx
